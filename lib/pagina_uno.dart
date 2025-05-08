@@ -16,65 +16,41 @@ class Pantallauno extends StatelessWidget {
           Center(
             child: ElevatedButton(
               onPressed: () {
-                Navigator.pushNamed(context, '/pantalla2');
+                Navigator.pushNamed(context, '/pantallarangeslider');
               },
-              child: const Text("ver pantalla 2"),
+              child: const Text("ver pantalla rangeslider"),
             ),
           ),
           Center(
             child: ElevatedButton(
               onPressed: () {
-                Navigator.pushNamed(context, '/pantalla3');
+                Navigator.pushNamed(context, '/pantallarow');
               },
-              child: const Text("ver pantalla 3"),
+              child: const Text("ver pantalla row"),
             ),
           ),
           Center(
             child: ElevatedButton(
               onPressed: () {
-                Navigator.pushNamed(context, '/pantalla4');
+                Navigator.pushNamed(context, '/pantallasizebox');
               },
-              child: const Text("ver pantalla 4"),
+              child: const Text("ver pantalla sizebox"),
             ),
           ),
           Center(
             child: ElevatedButton(
               onPressed: () {
-                Navigator.pushNamed(context, '/pantalla5');
+                Navigator.pushNamed(context, '/pantallasilveropacity');
               },
-              child: const Text("ver pantalla 5"),
+              child: const Text("ver pantalla silveropacity"),
             ),
           ),
           Center(
             child: ElevatedButton(
               onPressed: () {
-                Navigator.pushNamed(context, '/pantalla6');
+                Navigator.pushNamed(context, '/pantallastepper');
               },
-              child: const Text("ver pantalla 6"),
-            ),
-          ),
-          Center(
-            child: ElevatedButton(
-              onPressed: () {
-                Navigator.pushNamed(context, '/pantalla7');
-              },
-              child: const Text("ver pantalla 7"),
-            ),
-          ),
-          Center(
-            child: ElevatedButton(
-              onPressed: () {
-                Navigator.pushNamed(context, '/pantalla8');
-              },
-              child: const Text("ver pantalla 8"),
-            ),
-          ),
-          Center(
-            child: ElevatedButton(
-              onPressed: () {
-                Navigator.pushNamed(context, '/pantalla9');
-              },
-              child: const Text("ver pantalla 9"),
+              child: const Text("ver pantalla stepper"),
             ),
           ),
         ],

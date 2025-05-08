@@ -21,3 +21,4 @@ flutter:
   assets:
     - assets/nachodesierto.jpg  # Sin espacios antes y correcta indentación
     - assets/nacholib.jpg
+    - assets/vuela.jpg
