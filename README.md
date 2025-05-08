@@ -1,19 +1,17 @@
 # act5_Rutas
+## range slider
+![image](https://github.com/user-attachments/assets/0c54da39-885d-4ffe-a41b-6e51cf410206)
+## row
+![image](https://github.com/user-attachments/assets/b7567371-68e5-4147-85de-28db91a39680)
+## size box
+![image](https://github.com/user-attachments/assets/3f604767-ab40-4435-a232-571635e89faa)
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## silver opacity
+![image](https://github.com/user-attachments/assets/63690935-eb8d-4337-bd33-72a9c9ee48a8)
 
-## Getting Started
+## stepper
+![image](https://github.com/user-attachments/assets/cac8eb8a-5daf-41ac-9e30-3750a6f032f3)
 
-A few resources to get you started if this is your first Flutter project:
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
